@@ -1,0 +1,1 @@
+Project ini bertujuan untuk anda yang ingin mencari film dengan sinopsis serupa dengan judul film yang anda masukan. Dengan adanya Algoritma TF-IDF dan Cosine Similarity membuat hasilnya menjadi lebih akurat
